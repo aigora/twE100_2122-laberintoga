@@ -8,4 +8,4 @@
 ## Objetivos del trabajo
 El objetivo del trabajo es crear un proyecto donde se refleje los contenidos aprendidos.
 Queremos entretener al usuario.
-Hacer algo vistoso, que llame la atención participar
+Hacer algo vistoso, que llame la atención  a participar
