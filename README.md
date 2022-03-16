@@ -5,6 +5,7 @@ En este proyecto vamos a construir mediante el lenguaje c unnlaberinto con varia
 ## Integrantes del equipo
 
 Álvaro Martin Castillo = = > @AlvaroMartin3
+
 Gonzalo Peinado Franganillo = = > @gonzalopeinado
 
 ## Objetivos del trabajo
